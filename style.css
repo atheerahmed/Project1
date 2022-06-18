@@ -1,0 +1,24 @@
+body {
+    background-image: url("travel.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+
+  }
+
+
+  .color{
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+    padding-top: 50px;
+     text-align: center;
+    color: rgb(255, 141, 2);
+}
+.h1{
+    padding-top: 50px;
+    text-align: center;
+    border-radius: 4px;
+    color:rgb(245, 94, 94);
+
+}
